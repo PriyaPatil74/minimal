@@ -10,26 +10,21 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# CCF
+# Machine Learning
 
-Prediction volume sales for the future using time series data
 
-## MMM
 
-> Market Mixed Modelling
->
-> Market Mix Modeling (MMM) is a technique which helps in quantifying the impact of several marketing inputs on sales or Market Share
+## Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com//fraud_detection](https://github.com/PriyaPatil74/Ml-FraudDetection))
+
+<center><img src="img/images.jfif"/></center>
 ### Code
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<center><img src="images/fraud_detection.jpg"/></center>
 
-```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
