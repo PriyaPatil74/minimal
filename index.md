@@ -10,17 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Market Mixed Modelling
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Market Mix Modeling (MMM) is a technique which helps in quantifying the impact of several marketing inputs on sales or Market Share.
 
-## Header 2
+## Core Category forecasting
 
-> This is a blockquote following a header.
+> Time series sales data
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Predicting volume of sales using time series forecasting techniques.
 
-### Header 3
+### code
 
 ```js
 // Javascript code with syntax highlighting.
